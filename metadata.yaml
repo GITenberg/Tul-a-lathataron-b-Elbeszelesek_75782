@@ -1,0 +1,35 @@
+_repo: Tul-a-lathataron-b-Elbeszelesek_75782
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jókai, Mór
+    aliases:
+    - Jokai, Maurus
+    - Jokai, Mor
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '5845'
+    url: http://www.gutenberg.org/2009/agents/5845
+    wikipedia:
+    - https://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+    - https://fi.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+    - https://hu.wikipedia.org/wiki/J%C3%B3kai_M%C3%B3r
+description: ''
+gutenberg_issued: '2025-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75782'
+language: hu
+pgterms:marc905: 20250331113926jkai
+pgterms:marc906: '1912'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bRévai Testvérek, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Túl a láthatáron : $b Elbeszélések'
+url: http://www.gutenberg.org/ebooks/75782
